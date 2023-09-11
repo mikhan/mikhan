@@ -1,13 +1,13 @@
-Hi 👋 My name is Jorge Rojas
+Hola 👋 Mi nombre es Jorge Rojas
 ============================
 
-Web Developer and Designer
+Web Developer y Diseñador
 --------------------------
 
-* 🌍  I'm based in Mazatlán, México
-* ✉️  You can contact me at [mikhan\_@hotmail.com](mailto:mikhan_@hotmail.com)
+* 🌍  Vivo Mazatlán, Sinaloa, México
+* ✉️  Puedes contactarme al correo [mikhan\_@hotmail.com](mailto:mikhan_@hotmail.com)
 
-### Skills
+### Habilidades
 
 
 <p align="left">
@@ -28,12 +28,6 @@ Web Developer and Designer
 </p>
 
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/mikhan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
+### GitHub Stats
 
 <a href="http://www.github.com/mikhan"><img src="https://github-readme-stats.vercel.app/api?username=mikhan&show_icons=true&hide=stars,&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="mikhan's GitHub stats" /></a>
